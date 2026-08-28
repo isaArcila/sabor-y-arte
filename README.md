@@ -37,6 +37,7 @@
 
 ## 📁 Estructura del Proyecto
 
+```text
 sabor-y-arte/
 ├── index.html                 # Página de entrada principal
 ├── php/                       # Módulos de lógica del servidor y backend
@@ -60,3 +61,4 @@ sabor-y-arte/
 │   └── style.css
 ├── img/                       # Recursos multimedia y gráficos del e-commerce
 └── README.md                  # Documentación principal del repositorio
+```
