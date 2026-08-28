@@ -67,7 +67,7 @@ sabor-y-arte/
 ## 📧 Contacto y Autoría
 
 * **Desarrolladora:** Isabella Arcila López
-* **Ubicación:** Sonsón, Antioquia, Colombia
+* **Ubicación:** Medellín, Antioquia, Colombia
 * **Proyecto:** Panadería & Repostería Sabor y Arte
 * **SENA:** Tecnología en Análisis y Desarrollo de Software (ADSO)
 
